@@ -1,6 +1,9 @@
 # DBMS-mini-project
 A mobile specifications website which suggests users about the  best smartphones available in their price range.
 Includes a stored procedure,a function and two triggers.
+
+# requirements: an IDE(eclipse),WAMP/XAMPP server,phpMyAdmin.
+
 # stored procedure-
 inserts user details into the database when a new user signs up.
 
