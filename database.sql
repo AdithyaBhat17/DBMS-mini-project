@@ -364,14 +364,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`USER_ID`, `NAME`, `EMAIL`, `PASSWORD`) VALUES
-(1, 'Arjun', 'arjun@gmail.com', 'abc123'),
-(2, 'akash', 'akash@gmail.com', 'abc123'),
-(3, 'mahesh', 'mahesh@yahoo.com', 'abc123'),
-(4, 'anusha', 'anusha@gmail.com', 'abc123'),
-(5, 'veena', 'veena@gmail.com', 'abc123'),
-(6, 'adi', 'adi@gmail.com', 'aaa111'),
-(7, 'adi1', 'adi@gmail.com', 'aaaa');
+
 
 -- --------------------------------------------------------
 
